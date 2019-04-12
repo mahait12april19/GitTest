@@ -1,0 +1,3 @@
+C:\Users\MahaIT\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.2\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\MahaIT\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.2\GitTest.AssemblyInfoInputs.cache
+C:\Users\MahaIT\source\repos\GitTest\GitTest\obj\Debug\netcoreapp2.2\GitTest.AssemblyInfo.cs
